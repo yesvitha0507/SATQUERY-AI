@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+rasterio
+opencv-python
+groq
+python-dotenv
+reportlab
+torch
+torchvision
+timm
+torchgeo==0.8.1
